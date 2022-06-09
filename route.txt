@@ -1,0 +1,28 @@
+
+A use a tn get B a Card.
+HeroA use Card{tn} to get HeroB Card{any}
+
+1.HeroA shows card to controller
+2.Controller gives valid target to HeroA
+3.HeroA give Card-tn to controller
+4.Controller ask all players for wx
+5.Controller ask A to choose a card
+6.A tell controller what it wants
+7.Controller let B give that card
+
+
+value:
+
+basic:
+sha 7 5 3
+shan 8 5 2
+yao 9
+jiu 8
+
+equipment:
+hufu sha * 6
+bolangchui 7
+qiankundai 8
+
+shisheng:
+C4 C3 H6 H9
